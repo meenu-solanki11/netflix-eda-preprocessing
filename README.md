@@ -67,6 +67,6 @@ conn.close()
 - Integrate with Power BI/Tableau for visualization.
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/yourgithub)
+Meenu Solanki - [GitHub Profile]
 
 
